@@ -1,28 +1,13 @@
 # My-UT99-Stuff
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Tournament-1999-orange?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Tournament 1999" />
-  <img src="https://img.shields.io/badge/Engine-469e-blue?style=for-the-badge" alt="Engine version 469e" />
-  <img src="https://img.shields.io/badge/Status-Content%20Dump-lightgrey?style=for-the-badge" alt="Content Dump" />
-</p>
-
-<p align="center">
-  <i>A collection of custom content and creations for Unreal Tournament (1999).</i>
-</p>
-
----
-
-## 📦 About
-
-Welcome to **My-UT99-Stuff**!
-
 This repository is a collection of Unreal Tournament (UT99) content I've created over time. It serves as a personal archive and distribution point for my custom creations.
 
 Feel free to browse, download, and use the content!
 
 ## 📥 Manual Installation
 
-Installation should be simple. The packages already follow the original Unreal Tournament directory structure.
+Each folder with content can be used individually and most importantly contains `.rar` file.
+The .rar packages already follow the original Unreal Tournament directory structure.
 
 ### Step 1 – Locate your game directory
 
