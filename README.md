@@ -20,28 +20,9 @@ This repository is a collection of Unreal Tournament (UT99) content I've created
 
 Feel free to browse, download, and use the content!
 
-# 📦 Installation Guide
-
-<p align="center">
-  <i>Unreal Tournament (1999) – Custom Content</i>
-</p>
-
----
-
-## 🖼️ About This Package
-
-**[Asset / Mod Name]**
-
-Brief description of the content included in this package.
-
-<!-- Replace the image below with a screenshot or preview of your asset -->
-<p align="center">
-  <img src="images/preview.png" alt="Asset Preview" width="700"/>
-</p>
-
 ## 📥 Manual Installation
 
-Installing this content is simple. The package already follows the original Unreal Tournament directory structure.
+Installation should be simple. The packages already follow the original Unreal Tournament directory structure.
 
 ### Step 1 – Locate your game directory
 
