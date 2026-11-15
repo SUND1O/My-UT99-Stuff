@@ -20,6 +20,43 @@ This repository is a collection of Unreal Tournament (UT99) content I've created
 
 Feel free to browse, download, and use the content!
 
+## 📥 Installation Guide
+
+The repository contains multiple independent content packages, allowing you to download and install only the assets you're interested in.
+
+To make manual installation as straightforward as possible, each package is organized using the original Unreal Tournament directory structure.
+
+### Example: Installing Nuketown
+
+Let's say you want to install the **Nuketown** map.
+
+The repository contains a folder named `Nuketown`, with a structure similar to this:
+
+```text
+Nuketown/
+├── Maps/
+│   └── DM-Nuketown.unr
+│
+└── Textures/
+    └── nuketown.utx
+```
+
+Each folder inside the package corresponds to a folder in your Unreal Tournament installation directory.
+
+**Installation steps:**
+
+1. Download the `Nuketown` folder from the repository.
+2. Locate your Unreal Tournament installation directory (for example: `D:\Games\UnrealTournament`).
+3. Open the downloaded `Nuketown` folder.
+4. Copy its contents (`Maps`, `Textures`, etc.) into your main Unreal Tournament directory.
+5. If prompted, allow the files to be merged with existing folders.
+
+After installation, the game should be able to find the map and its required assets.
+
+<blockquote>
+  <strong>💡 Important:</strong> Copy the contents of the package folder, not the package folder itself. For example, copy `Maps` and `Textures` into your Unreal Tournament directory, rather than placing the entire `Nuketown` folder inside it.
+</blockquote>
+
 ## ⚙️ Compatibility
 
 All content in this repository was created using:
