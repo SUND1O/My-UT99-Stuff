@@ -15,7 +15,7 @@ Carl Johnson from GTA:SA in UT99
 
 ## 📥 Installation
 
-Download and extract `Shipment.rar` into your Unreal Tournament installation directory.
+Download and extract `CJ.rar` into your Unreal Tournament installation directory.
 
 ## 📝 Notes
 - **Dependencies:** The custom playermodel heavily relies on `SkeletalChars.u` package, which was added with `Unreal Tournament Bonus Pack #4`. this is the reason why i could in any way import a skeletalmesh into ut99
