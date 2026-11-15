@@ -1,3 +1,0 @@
-[Public]
-Object=(Name=CJ.CarlJohnson,Class=Class,MetaClass=Botpack.TournamentPlayer,Description="Carl Johnson")
-Object=(Name=CJ.CarlJohnsonBot,Class=Class,MetaClass=Botpack.Bot,Description="Carl Johnson")
