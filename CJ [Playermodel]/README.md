@@ -9,6 +9,10 @@ Carl Johnson from GTA:SA in UT99
   <img src="preview1.png" alt="Shipment Screenshot 1" width="50%"/>
 </p>
 
+<p align="center">
+  <img src="preview2.png" alt="Shipment Screenshot 1" width="50%"/>
+</p>
+
 ## 📥 Installation
 
 Download and extract `Shipment.rar` into your Unreal Tournament installation directory.
