@@ -4,6 +4,8 @@ Also known as "BrainRot", is a custom Unreal Tournament 99 level.
 
 This is a rough recreation of shipment map from CoD games.
 
+Map is created in Deathmatch, CTF and Domination variants
+
 ## 📸 Screenshots
 
 <p align="center">
